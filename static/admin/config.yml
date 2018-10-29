@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: hajerbarrani/netlify-cms
+  repo: hajerbarrani/netlify-cmss
 
 media_folder: static/assets
 public_folder: assets
