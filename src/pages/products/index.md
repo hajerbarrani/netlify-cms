@@ -1,6 +1,7 @@
 ---
-templateKey: product-page
-title: Our Coffee HY
+templateKey: 'product-page'
+path: /products
+title: Our Coffee Hajer Barrani
 image: /img/jumbotron.jpg
 heading: What we offer
 description: >-
@@ -98,4 +99,3 @@ pricing:
       plan: Custom
       price: '??'
 ---
-
