@@ -1,6 +1,8 @@
 ---
 templateKey: test-page
-title: Home Page
+title: Faire des travaux n’a jamais été aussi simple
+subtitle: Artisans qualifiés, architectes, accompagnement de A à Z, services à la carte... Homly You s'adapte à tous vos besoins.
+url : Je découvre les services
 ---
 ### Shade-grown coffee
 

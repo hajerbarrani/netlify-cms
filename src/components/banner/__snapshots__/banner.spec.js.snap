@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HomeBanner should renders correctly 1`] = `
+<div
+  className="banner"
+>
+  <h1
+    className="h1"
+  >
+    Faire des travaux n'a jamais été aussi simple
+  </h1>
+  <h2
+    className="h2"
+  >
+    Artisans qualifiés, architectes, accompagnement de A à Z, services à la carte... Homly You s'adapte à tous vos besoins.
+  </h2>
+  <button
+    className="cta"
+    type="button"
+  >
+    Nos services
+  </button>
+</div>
+`;
