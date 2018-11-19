@@ -4,7 +4,7 @@ title: Faire des travaux n’a jamais été aussi simple
 subtitle: >-
   Artisans qualifiés, architectes, accompagnement de A à Z, services à la
   carte... Homly You s'adapte à tous vos besoins.
-url: Damien
+url: Je suis un artisan
 ---
 ### Shade-grown coffee
 
