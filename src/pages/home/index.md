@@ -1,6 +1,6 @@
 ---
 templateKey: test-page
-title: Faire des travaux n’a jamais été aussi simple
+title: Faire des travaux n’a jamais été aussi simple Hajer
 subtitle: >-
   Artisans qualifiés, architectes, accompagnement de A à Z, services à la
   carte... Homly You s'adapte à tous vos besoins.
