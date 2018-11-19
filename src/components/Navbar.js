@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 //import github from '../img/github-icon.svg'
-import logo from 'https://www.homly-you.com/static/images/logoHYWeb.svg'
+import logo from '../img/logoHYWeb.svg'
 
 const Navbar = () => (
   <nav className="navbar is-transparent">
@@ -9,7 +9,7 @@ const Navbar = () => (
       <div className="navbar-brand">
         <Link to="/" className="navbar-item">
           <figure className="image">
-            <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
+            <img src={logo} alt="Kaldi" style={{ width: '145px' }} />
           </figure>
         </Link>
       </div>
